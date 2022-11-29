@@ -17,18 +17,18 @@ Cliquez sur Info, pour obtenir plus d'information sur l'indice de masse corporel
 
 ## Installation
 
-git clone 
+git clone https://github.com/ZineeEddine/Calculateur-de-IMC-iOS-Android.git
 
 ### Pour la version Android, installez l'émulateur Nexus 6 (API 32) depuis Android Studio puis lancez l'application.
-### Pour la version iOS, installez l'émulateur Iphone 12 depuis Xcode, puis lancez l'application.
 
 ## Screenshots
 
 App Android - Nexus 6 :
 
-
-
-App iOS - Iphone 12 :
+<img width="321" alt="1" src="https://user-images.githubusercontent.com/92603736/204501964-5d62f0f3-737b-4ab1-9b3e-b474fd77a4ee.png">
+<img width="321" alt="2" src="https://user-images.githubusercontent.com/92603736/204501988-b3ae0e19-3c10-4274-8bfe-69342310b6b7.png">
+<img width="321" alt="3" src="https://user-images.githubusercontent.com/92603736/204502011-d91e9396-a747-4c53-a5c7-87d75ad6508e.png">
+<img width="321" alt="4" src="https://user-images.githubusercontent.com/92603736/204502046-aaad9c24-0921-4b50-b2ee-f75741af9755.png">
 
 
 
