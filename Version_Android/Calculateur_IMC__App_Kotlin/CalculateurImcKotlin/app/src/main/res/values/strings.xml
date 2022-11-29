@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculateur Imc</string>
+    <string name="title_imc">Calcul de l\'IMC</string>
+    <string name="title_info">Informations</string>
+    <!--  <string name="title_info">Indice de Masse Corporelle</string> -->
+    <string name="title_imc_nav">IMC</string>
+    <string name="title_info_nav">Info</string>
+    <string name="title_activity_result_imc">ResultImcActivity</string>
+
+</resources>
