@@ -30,6 +30,13 @@ App Android - Nexus 6 :
 <img width="321" alt="3" src="https://user-images.githubusercontent.com/92603736/204502011-d91e9396-a747-4c53-a5c7-87d75ad6508e.png">
 <img width="321" alt="4" src="https://user-images.githubusercontent.com/92603736/204502046-aaad9c24-0921-4b50-b2ee-f75741af9755.png">
 
+App iOS - Iphone 12 :
+
+<img width="430" alt="_1" src="https://user-images.githubusercontent.com/92603736/204857139-144fa624-9a08-4e60-bfd8-d938c78eb765.png">
+<img width="430" alt="_2" src="https://user-images.githubusercontent.com/92603736/204857156-c96a40f1-740c-4daa-8f00-ffdbfd256c4c.png">
+<img width="430" alt="_3" src="https://user-images.githubusercontent.com/92603736/204857163-65ebc06b-9856-43e2-aa25-b405933b8fbb.png">
+<img width="430" alt="_4" src="https://user-images.githubusercontent.com/92603736/204857203-3d441048-bdf0-4248-9de6-234ecaf38c5f.png">
+
 
 
 ## License
